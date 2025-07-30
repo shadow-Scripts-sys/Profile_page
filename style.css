@@ -101,8 +101,8 @@ body{
     color: white;
     padding: 10px 0;
     i{
-        padding-right: 15px;
-        font-size: 40px;
+        padding-right: 20px;
+        font-size: 50px;
         transition: transform 0.5s;
     }
 }
